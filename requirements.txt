@@ -1,0 +1,15 @@
+## pip freeze > requirements.txt
+## pip install -r requirements.txt
+## 가상환경 설정 후 vscode 인터프리터 확인 꼭 하기
+## (하단 상태 표시줄 or Ctrl+Shift+P -> python: select interpreter)
+openai
+python-dotenv
+huggingface-hub
+numpy
+pandas
+datasets
+chromadb
+langchain
+tiktoken
+python-dotenv
+unstructured 
